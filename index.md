@@ -17,4 +17,4 @@ ParSiTi project.
 
 
 # More info
-Check out [github] (https://github.com/parsiti)
+Check out [github](https://github.com/parsiti)
