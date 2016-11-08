@@ -14,3 +14,7 @@ multilingual user generated content. Making these unlimited streams of
 non-canonical texts automatically understandable and actionable opens
 new scientific and social challenges. This is the main focus of the
 ParSiTi project.
+
+
+# More info
+Check out [github] (https://github.com/parsiti)
