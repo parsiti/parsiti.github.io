@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Description"
+    url: /description/
+  - title: "Subprojects"
+    url: /subprojects/
+  - title: "Papers"
+    url: /papers/
+  - title: "Members"
+    url: /members/
+  - blog: "Blog"
+    url: /blog/

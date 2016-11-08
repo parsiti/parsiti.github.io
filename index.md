@@ -1,6 +1,16 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: splash
 ---
+
+# Introduction
+__ParSiTi__ is a research project funded by __ANR__
+(ANR-16-CE33-0021). It is a 4 year project spanning from Nov. 2016 to
+Nov. 2020.
+
+# Short Description
+Social media and other forms of online communication have triggered
+the emergence of new forms of written texts and increase the volume of
+multilingual user generated content. Making these unlimited streams of
+non-canonical texts automatically understandable and actionable opens
+new scientific and social challenges. This is the main focus of the
+ParSiTi project.

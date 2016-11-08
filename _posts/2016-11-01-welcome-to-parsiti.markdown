@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Parsiti!"
 date:   2016-11-01 11:57:52 +0100
 categories: update
