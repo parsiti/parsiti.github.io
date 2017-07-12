@@ -1,6 +1,7 @@
 ---
 title: Project Members
 permalink: /members/
+layout: splash
 ---
 
 The `ParSiTi` project involves four research groups all situated in the
