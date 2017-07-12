@@ -2,8 +2,8 @@
 main:
   - title: "Description"
     url: /description/
-  - title: "Subprojects"
-    url: /subprojects/
+#  - title: "Subprojects"
+#    url: /subprojects/
   - title: "Papers"
     url: /papers/
   - title: "Members"
