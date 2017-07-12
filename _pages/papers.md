@@ -1,6 +1,7 @@
 ---
 title: Parsiti Papers
 permalink: /papers/
+layout: splash
 ---
 
 Here are all the papers that have been published in the context of the __ParSiTi__.
