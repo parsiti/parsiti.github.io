@@ -2,7 +2,6 @@
 layout: splash
 ---
 
-# Introduction
 __ParSiTi__ is a research project funded by __ANR__
 (ANR-16-CE33-0021). It is a 4 year project spanning from Nov. 2016 to
 Nov. 2020. 
@@ -15,6 +14,9 @@ non-canonical texts automatically understandable and actionable opens
 new scientific and social challenges. This is the main focus of the
 ParSiTi project.
 
+# Open positions
+
+We are currently looking for a [PhD student](phd.pdf)
 
 # More info
 Check out [github](https://github.com/parsiti)
