@@ -10,6 +10,7 @@ Here are all the papers that have been published in the context of the __ParSiTi
 
 - G. Wisniewski, F. Yvon, **Divergences entre annotations dans le projet Universal Dependencies et leur impact sur l’évaluation de l’étiquetage morpho-syntaxique**, TALN'18
 - J. C. Rosales Núñez and G. Wisniewski **Analyse morpho-syntaxique en présence d'alternance codique**, TALN'18
+- M. Apidianaki, G. Wisniewski, A. Cocos and C. Callison-Burch **Automated Paraphrase Lattice Creation for HyTER Machine Translation Evaluation**, NAACL'18
 - G. Wisniewski, O. Lacroix, F. Yvon, **Automatically Selecting the Best Dependency Annotation Design with Dynamic Oracles**, NAACL'18
 - L. Aufrant, G. Wisniewski and F. Yvon **Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-projective Trees**, NAACL'18
 - G. Wisniewski, **Errator: a Tool to Help Detect Annotation Errors in the Universal Dependencies Project**, LREC'18
