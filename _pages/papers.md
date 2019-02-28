@@ -13,7 +13,7 @@ Here are all the papers that have been published in the context of __ParSiTi__.
 # 2018
 
 - L. Aufrant, G. Wisniewski and F. Yvon, **Quantifying training challenges of dependency parsers**, COLING'18
-- L. Aufrant and G. Wisniewski, **PanParser: a Modular Implementation for Efficient Transition-Based Dependency Parsing**, PBML'18
+- L. Aufrant and G. Wisniewski, **PanParser: a Modular Implementation for Efficient Transition-Based Dependency Parsing**, The Prague Bulletin of Mathematical Linguistics 111 (1), 57-86, PBML'18
 - G. Wisniewski, F. Yvon, **Divergences entre annotations dans le projet Universal Dependencies et leur impact sur l’évaluation de l’étiquetage morpho-syntaxique**, TALN'18
 - J. C. Rosales Núñez and G. Wisniewski **Analyse morpho-syntaxique en présence d'alternance codique**, TALN'18
 - G. Wisniewski, O. Lacroix, F. Yvon, **Automatically Selecting the Best Dependency Annotation Design with Dynamic Oracles**, NAACL'18
