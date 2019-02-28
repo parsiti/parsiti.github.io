@@ -4,7 +4,7 @@ permalink: /papers/
 layout: splash
 ---
 
-Here are all the papers that have been published in the context of the __ParSiTi__.
+Here are all the papers that have been published in the context of __ParSiTi__.
 
 # 2019
 
