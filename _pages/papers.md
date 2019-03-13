@@ -10,10 +10,6 @@ Here are all the papers that have been published in the context of __ParSiTi__.
 
 - G. Wisniewski and F. Yvon, **How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project**, NAACL'19 (to appear)
 
-# 2019
-
-- G. Wisniewski and F. Yvon, **How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project**, NAACL'19
-
 # 2018
 
 - L. Aufrant, G. Wisniewski and F. Yvon, **Quantifying training challenges of dependency parsers**, COLING'18
