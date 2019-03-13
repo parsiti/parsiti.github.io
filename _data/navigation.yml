@@ -6,5 +6,7 @@ main:
     url: /papers/
   - title: "Members"
     url: /members/
+  - title: "Downloads"
+    url: /downloads/
   - blog: "Blog"
     url: /blog/
