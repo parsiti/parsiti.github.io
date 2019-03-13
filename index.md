@@ -16,7 +16,7 @@ ParSiTi project.
 
 # Open positions
 
-We are currently looking for a [PhD student](phd.pdf)
+We are currently looking for a Postdoc to work with Joseph Le Roux (leroux __AT__ lipn.fr), starting asap.
 
 # More info
 Check out [github](https://github.com/parsiti)
