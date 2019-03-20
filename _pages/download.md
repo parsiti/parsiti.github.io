@@ -23,7 +23,7 @@ layout: splash
 [Ressource-poor language parser with an emphasis on tranfert learning (LIMSI)](https://lauriane.aufrant.fr/limsi/software/panparser.zip)
 
 
-** Datasets **
+**Datasets**
 
 The datasets we produced will be made availabe upon publications. Please contact us directly for inquiry.
 * The Parallel Cr#pank, 1500 sentences annotated following the PTB tagset and translated from the French Social Media Bank (Seddah et al, 2012)
