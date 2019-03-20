@@ -26,9 +26,10 @@ layout: splash
 **Datasets**
 
 The datasets we produced will be made availabe upon publications. Please contact us directly for inquiry.
+* Spanish/English code switched Twitter corpus (1000 tweets) annotated in part-of-speech following the Universal Part-of-Speech tagset (Petrov et al, 2012)
 * The Parallel Cr#pank, 1500 sentences annotated following the PTB tagset and translated from the French Social Media Bank (Seddah et al, 2012)
 * The Arabizi Treebank, 1800 sentences in a North-African Arabic dialect used in user-generated content, code mixed with French, with manual tranlsations to French, annotated following 
 	* (i) a rich morpho-syntactic tagset inspired from the French Social Media Bank, 
-	* (ii) the Universal Part-of-speech tagset (Petrov et al, 2012) from the Universal Dependencies project (Nivre et al, 2017; 2018) and 
-	* (iii) 630 (ongoing, targetting 1000) sentences annotated following the UD annotation scheme.
+	* (ii) the Universal tagset (Petrov et al, 2012) from the Universal Dependencies project (Nivre et al, 2017; 2018), 
+	* (iii) 630 sentences (ongoing work, targetting 1000) annotated following the UD annotation scheme.
 
