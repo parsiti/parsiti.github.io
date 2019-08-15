@@ -2,9 +2,8 @@
 layout: splash
 ---
 
-__ParSiTi__ is a research project funded by __ANR__
-(ANR-16-CE33-0021). It is a 4 year project spanning from Nov. 2016 to
-Nov. 2020. 
+__ParSiTi__ is a research project funded by the __ANR__
+(ANR-16-CE33-0021) with Dr. Djamé Seddah as PI and Guillaume Wisnesky and Joseph Le Roux as co-PIs. It is a 5 year project spanning from Nov. 2016 to Nov. 2021. 
 
 # Short Description
 Social media and other forms of online communication have triggered
@@ -16,7 +15,7 @@ ParSiTi project.
 
 # Open positions
 
-We are currently looking for a Postdoc to work with Joseph Le Roux (leroux __AT__ lipn.fr), starting asap.
+All positions have been filled. However, please contact us directly if you'd like to explore other work opportunities (Internship, leap year, invited professorship, etc.)
 
 # More info
 Check out [github](https://github.com/parsiti)
