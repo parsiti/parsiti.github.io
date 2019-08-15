@@ -1,6 +1,6 @@
 ---
 title: Parsiti's Datasets
-permalink: /Datasets/
+permalink: /datasets/
 layout: splash
 ---
 
