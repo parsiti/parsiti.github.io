@@ -8,5 +8,7 @@ main:
     url: /members/
   - title: "Downloads"
     url: /downloads/
+  - title: "Datasets"
+    url: /datasets/    
   - blog: "Blog"
     url: /blog/
