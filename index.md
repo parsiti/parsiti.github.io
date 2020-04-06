@@ -3,7 +3,7 @@ layout: splash
 ---
 
 __ParSiTi__ is a research project funded by the __ANR__
-(ANR-16-CE33-0021) with Dr. Djamé Seddah as PI and Guillaume Wisnesky and Joseph Le Roux as co-PIs. It is a 5 year project spanning from Nov. 2016 to Nov. 2021. 
+(ANR-16-CE33-0021) with Dr. Djamé Seddah as PI and Guillaume Wisniewski, and Joseph Le Roux as co-PIs. It is a 5 year project spanning from Nov. 2016 to Nov. 2021. 
 
 # Short Description
 Social media and other forms of online communication have triggered
