@@ -4,7 +4,7 @@
 # North-African Arabic dialect data set
 
 This page contains the NArabizi treebank and the accompagnying unlabeled data described
-in the paper[1].
+in the paper "Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell" (Seddah et al.,2020) https://www.aclweb.org/anthology/2020.acl-main.107/
 
 
 ## Abstract
@@ -20,5 +20,3 @@ djame.seddah at gmail.com
 
 
 
-
-[1]: "Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell" (Seddah et al.,2020) https://www.aclweb.org/anthology/2020.acl-main.107/
